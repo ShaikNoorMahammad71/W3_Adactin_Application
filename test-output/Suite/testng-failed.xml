@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="URL" value="https://adactinhotelapp.com/index.php"/>
+  <parameter name="Browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="reportsGenration.AdactinApp_Rep_Gen"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCasesForAdactin.TC_006_BookedItineraryFunctionality">
+        <methods>
+          <include name="searcHoteltest"/>
+          <include name="logintest"/>
+          <include name="bookhotel"/>
+          <include name="bookingctest"/>
+          <include name="CloseApplication"/>
+          <include name="OpenAppliction"/>
+          <include name="cancelItinerarytest"/>
+          <include name="hotelselction"/>
+        </methods>
+      </class> <!-- testCasesForAdactin.TC_006_BookedItineraryFunctionality -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
