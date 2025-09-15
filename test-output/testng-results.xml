@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-31T17:02:30 IST" name="Suite" finished-at="2025-08-31T17:03:20 IST" duration-ms="50150">
+  <suite started-at="2025-09-15T09:27:38 IST" name="Suite" finished-at="2025-09-15T09:28:30 IST" duration-ms="52530">
     <groups>
     </groups>
-    <test started-at="2025-08-31T17:02:30 IST" name="Test" finished-at="2025-08-31T17:03:20 IST" duration-ms="50150">
-      <class name="testCasesForAdactin.TC_006_BookedItineraryFunctionality">
-        <test-method is-config="true" signature="OpenAppliction(java.lang.String,java.lang.String)[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:02:24 IST" name="OpenAppliction" finished-at="2025-08-31T17:02:30 IST" duration-ms="5309" status="PASS">
+    <test started-at="2025-09-15T09:27:38 IST" name="Test" finished-at="2025-09-15T09:28:30 IST" duration-ms="52530">
+      <class name="testCasesForAdactin.TC_007_ForgetPasswordFunctionality">
+        <test-method is-config="true" signature="OpenAppliction(java.lang.String,java.lang.String)[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:27:31 IST" name="OpenAppliction" finished-at="2025-09-15T09:27:38 IST" duration-ms="7178" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,35 +23,39 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenAppliction -->
-        <test-method signature="logintest()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:02:30 IST" name="logintest" finished-at="2025-08-31T17:02:31 IST" duration-ms="1107" status="PASS">
+        <test-method signature="logintest()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:27:38 IST" name="logintest" finished-at="2025-09-15T09:27:39 IST" duration-ms="571" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-        <test-method signature="searcHoteltest()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:02:31 IST" name="searcHoteltest" finished-at="2025-08-31T17:02:36 IST" duration-ms="4397" status="PASS">
+        <test-method signature="searcHoteltest()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:27:40 IST" name="searcHoteltest" finished-at="2025-09-15T09:27:45 IST" duration-ms="4598" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searcHoteltest -->
-        <test-method signature="hotelselction()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:02:36 IST" name="hotelselction" finished-at="2025-08-31T17:02:40 IST" duration-ms="3999" status="PASS">
+        <test-method signature="hotelselction()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:27:45 IST" name="hotelselction" finished-at="2025-09-15T09:27:49 IST" duration-ms="3768" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hotelselction -->
-        <test-method signature="bookhotel()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:02:40 IST" name="bookhotel" finished-at="2025-08-31T17:02:46 IST" duration-ms="5937" status="PASS">
+        <test-method signature="bookhotel()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:27:49 IST" name="bookhotel" finished-at="2025-09-15T09:27:55 IST" duration-ms="6048" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookhotel -->
-        <test-method signature="bookingctest()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:02:47 IST" name="bookingctest" finished-at="2025-08-31T17:03:03 IST" duration-ms="15422" status="PASS">
+        <test-method signature="bookingctest()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:27:56 IST" name="bookingctest" finished-at="2025-09-15T09:28:13 IST" duration-ms="17698" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookingctest -->
-        <test-method signature="cancelItinerarytest()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:03:03 IST" name="cancelItinerarytest" finished-at="2025-08-31T17:03:19 IST" duration-ms="16525" status="PASS">
+        <test-method signature="cancelItinerarytest()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:28:14 IST" name="cancelItinerarytest" finished-at="2025-09-15T09:28:30 IST" duration-ms="15927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cancelItinerarytest -->
-        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:testCasesForAdactin.TC_006_BookedItineraryFunctionality@79079097]" started-at="2025-08-31T17:03:20 IST" name="CloseApplication" finished-at="2025-08-31T17:03:23 IST" duration-ms="3358" status="PASS">
+        <test-method signature="Forgetpassword()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:28:30 IST" name="Forgetpassword" finished-at="2025-09-15T09:28:30 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Forgetpassword -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:testCasesForAdactin.TC_007_ForgetPasswordFunctionality@4b2bac3f]" started-at="2025-09-15T09:28:31 IST" name="CloseApplication" finished-at="2025-09-15T09:28:34 IST" duration-ms="3428" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
-      </class> <!-- testCasesForAdactin.TC_006_BookedItineraryFunctionality -->
+      </class> <!-- testCasesForAdactin.TC_007_ForgetPasswordFunctionality -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
