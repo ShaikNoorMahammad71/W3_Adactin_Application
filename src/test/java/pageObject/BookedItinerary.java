@@ -23,7 +23,8 @@ public BookedItinerary(WebDriver dr) {
     WebElement logoutElement;
     @FindBy(xpath = "//a[@href='index.php']")
     WebElement logina;
-    
+    @FindBy(xpath = "//a[text()='Forgot Password?']")
+    WebElement forget;
     
     public void selectcheckbox() {
     	checkb.click();
@@ -39,6 +40,10 @@ public BookedItinerary(WebDriver dr) {
     public void Loginagain() {
     	logina.click();
     }
+    public void forget() {
+    	forget.click();
+    }
+    
 
 
 

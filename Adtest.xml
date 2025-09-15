@@ -8,7 +8,7 @@
 <parameter name="URL" value="https://adactinhotelapp.com/index.php"></parameter>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testCasesForAdactin.TC_006_BookedItineraryFunctionality"/>
+      <class name="testCasesForAdactin.TC_007_ForgetPasswordFunctionality"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

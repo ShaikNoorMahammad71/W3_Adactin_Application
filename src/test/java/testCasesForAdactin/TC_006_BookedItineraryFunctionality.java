@@ -22,6 +22,10 @@ public class TC_006_BookedItineraryFunctionality extends TC_005_BookingConfFunct
 		log.info("logout Successfully");
 		bip.Loginagain();
 		log.info("Login again Successfully");
+		
+		bip.forget();
+		log.info("Forge Password click Successfully");
+		
 	}
 
 }

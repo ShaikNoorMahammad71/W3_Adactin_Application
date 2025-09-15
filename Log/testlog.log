@@ -29,3 +29,33 @@
 2025-09-03 09:41:41,386 - AdactinProject -INFO - username entered Successfully
 2025-09-03 09:41:41,539 - AdactinProject -INFO - Password entered Successfully
 2025-09-03 09:41:42,659 - AdactinProject -INFO - Login successfully
+2025-09-15 09:27:38,999 - AdactinProject -INFO - username entered Successfully
+2025-09-15 09:27:39,181 - AdactinProject -INFO - Password entered Successfully
+2025-09-15 09:27:39,376 - AdactinProject -INFO - Login successfully
+2025-09-15 09:27:40,871 - AdactinProject -INFO - Select location Successfully
+2025-09-15 09:27:41,068 - AdactinProject -INFO - Select hotel Successfully
+2025-09-15 09:27:41,240 - AdactinProject -INFO - Select room Successfully
+2025-09-15 09:27:41,400 - AdactinProject -INFO - Select number of rooms Successfully
+2025-09-15 09:27:41,497 - AdactinProject -INFO - Enter check in date  Successfully
+2025-09-15 09:27:41,583 - AdactinProject -INFO - Enter check out date  Successfully
+2025-09-15 09:27:41,723 - AdactinProject -INFO - Select adults per rooms Successfully
+2025-09-15 09:27:41,879 - AdactinProject -INFO - Select childerns per rooms Successfully
+2025-09-15 09:27:45,185 - AdactinProject -INFO - Submit Successfully
+2025-09-15 09:27:45,494 - AdactinProject -INFO - Select Radio button Successfully
+2025-09-15 09:27:49,142 - AdactinProject -INFO - Click Continue button Successfully
+2025-09-15 09:27:49,476 - AdactinProject -INFO - Enter first name Successfully
+2025-09-15 09:27:49,562 - AdactinProject -INFO - Enter last name Successfully
+2025-09-15 09:27:49,673 - AdactinProject -INFO - Enter Adress Successfully
+2025-09-15 09:27:49,780 - AdactinProject -INFO - Enter Creadit card number Successfully
+2025-09-15 09:27:49,924 - AdactinProject -INFO - Enter Creadit card type Successfully
+2025-09-15 09:27:50,061 - AdactinProject -INFO - Enter expairy month Successfully
+2025-09-15 09:27:50,196 - AdactinProject -INFO - Enter expairy year Successfully
+2025-09-15 09:27:50,277 - AdactinProject -INFO - Enter CVV number Successfully
+2025-09-15 09:27:55,376 - AdactinProject -INFO - Click booknow Successfully
+2025-09-15 09:28:13,985 - AdactinProject -INFO - Click book iteinerary Successfully
+2025-09-15 09:28:14,305 - AdactinProject -INFO - Select checkbox Successfully
+2025-09-15 09:28:22,450 - AdactinProject -INFO - Cancel selected Successfully
+2025-09-15 09:28:28,312 - AdactinProject -INFO - logout Successfully
+2025-09-15 09:28:28,816 - AdactinProject -INFO - Login again Successfully
+2025-09-15 09:28:30,105 - AdactinProject -INFO - Forge Password click Successfully
+2025-09-15 09:28:30,597 - AdactinProject -INFO - forget click Successfully
